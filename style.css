@@ -1,18 +1,20 @@
 *{
 margin: 0px;
 padding: 0px;
-background-color: #3abaafc1;
+background-color: #000428 ;
 opacity: 60px;
-font-family: Verdana, Geneva, Tahoma, sans-serif;
+font-family: sans-serif;
 
 }
 
+hr{
 
-div{
+height: 20px;
 
+}
 
-    background-color: #3fccc0c1;
-    height: 30px;
-    border:#a8469ba0;
-    border-radius: 10px;
+  p{
+
+text-decoration-color: aliceblue;
+
 }
