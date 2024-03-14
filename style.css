@@ -1,6 +1,21 @@
 *{
 margin: 0px;
 padding: 0px;
-background-color: f1faee;
+background-color: #f5ebe0;
 
+}
+
+div{
+
+    color: #920a3c;
+background-color: aqua;
+}
+
+img{
+height: 90px;
+width: 90px;
+display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 16px;
 }
